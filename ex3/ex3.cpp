@@ -7,10 +7,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	int a;
-	cin >> a;
-	cout << a;
-	
+	cout << "hi";
 	return 0;
 }
 
