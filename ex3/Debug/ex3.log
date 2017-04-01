@@ -1,0 +1,4 @@
+﻿  ex3.cpp
+c:\users\lenovo\documents\visual studio 2013\projects\ex3\ex3\ex3.cpp(5): warning C4005: “EOF”: 宏重定义
+          d:\tools\vs_2013\vc\include\stdio.h(59) : 参见“EOF”的前一个定义
+  ex3.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2013\Projects\ex3\Debug\ex3.exe
